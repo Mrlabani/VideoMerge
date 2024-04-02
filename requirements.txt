@@ -1,0 +1,11 @@
+Pyrogram==2.0.106
+TgCrypto
+hachoir
+Pillow
+aiohttp
+motor
+dnspython
+aiofiles
+psutil
+pyromod
+humanfriendly
